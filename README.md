@@ -1,4 +1,5 @@
 # MPA-MLF
-Machine learning fundamentals
+## Machine learning fundamentals
 
-2024
+### Ondřej Nesvadba
+### 2024 letní semestr
